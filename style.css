@@ -63,6 +63,7 @@ nav ul li a {
     max-width: 100%;
     height: auto;
     border: 2px solid #333;
+    object-fit: cover;
 }
 
 #contact {
